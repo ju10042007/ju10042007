@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Julia</h1>
+<h1 align="center">Hi, I'm Julia</h1>
 <h3 align="center">A passionate frontend, backend developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ju10042007&label=Profile%20views&color=0e75b6&style=flat" alt="ju10042007" /> </p>
